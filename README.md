@@ -1,2 +1,2 @@
 # alura-plus
-Training
+Web page mixing HTML and CSS
